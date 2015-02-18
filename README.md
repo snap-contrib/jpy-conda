@@ -10,3 +10,4 @@ jpy is a bi-directional Python-Java bridge which you can use to embed Java code 
 * Support of Java methods that modify primitive Java array parameters (mutable parameters)
 * Java arrays translate into Python sequence objects
 * Java API for accessing Python objects (jpy.jar)
+
