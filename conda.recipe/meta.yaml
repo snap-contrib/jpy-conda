@@ -1,15 +1,17 @@
 package:
   name: jpy
-  version: "0.7.5"
+  version: "0.9.0"
 
 source:
-  path: ../jpy
+  url: https://github.com/bcdev/jpy/archive/0.9.0.zip
+  md5: e9690ff15874c7eefde2979c57926da4
+  #path: ../jpy
 
 build:
   
   entry_points:
 
-  number: 1
+  number: 0
 
 requirements:
   build:
