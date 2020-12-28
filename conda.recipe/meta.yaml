@@ -17,6 +17,7 @@ requirements:
   build:
     - python
     - setuptools
+    - java-1.7.0-openjdk-cos6-x86_64=1.7.0.131
 
   run:
     - python
