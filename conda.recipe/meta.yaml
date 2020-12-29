@@ -11,13 +11,12 @@ build:
   
   entry_points:
 
-  number: 2
+  number: 3
 
 requirements:
   build:
     - python
     - setuptools
-    - java-1.7.0-openjdk-cos6-x86_64=1.7.0.131
 
   run:
     - python
