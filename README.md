@@ -1,5 +1,6 @@
-jpy
-===
+# jpy as a conda package
+
+This repo contains the conda packaging of the jpy project developed by Brockmann Consult GmbH.
 
 jpy is a bi-directional Python-Java bridge which you can use to embed Java code in Python programs or the other way round. It has been designed particularly with regard to maximum data transfer speed between the two languages. It comes with a number of outstanding features:
 
@@ -11,3 +12,4 @@ jpy is a bi-directional Python-Java bridge which you can use to embed Java code 
 * Java arrays translate into Python sequence objects
 * Java API for accessing Python objects (jpy.jar)
 
+Check the jpy documentation https://jpy.readthedocs.io/en/latest/ for more details.
